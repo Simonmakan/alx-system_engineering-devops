@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "project commit"
+git commit -m "project commit--all projrcst in shell redirections"
 git push
